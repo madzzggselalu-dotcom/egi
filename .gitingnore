@@ -1,0 +1,5 @@
+node_modules
+session
+storage
+.env
+npm-debug.log
